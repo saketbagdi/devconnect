@@ -2,7 +2,15 @@
 
 DevConnect is a modern microblogging web app built with React. It's a lightweight social platform where developers can share posts, schedule thoughts, and engage with others — all from a responsive, minimal interface.
 
-![DevConnect Screenshot](https://your-screenshot-url-if-you-have-one.com)
+![DevConnect Screenshot]
+Theme toogle:
+![image](https://github.com/user-attachments/assets/02e03d1c-24ea-4eca-a8da-63927ef167a4)
+![image](https://github.com/user-attachments/assets/bdbbfe5e-c676-45b0-9607-5ab1aa7e7611)
+
+
+Feed:
+![image](https://github.com/user-attachments/assets/679870f8-52f4-4291-a09c-207b9e21e76f)
+
 
 ---
 
